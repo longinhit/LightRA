@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "Food101"
+  PROMPT_PATH: './prompts/Food101.json'
+  PROMPT_TEMPLATE: 'A photo of a {}, a type of food.'

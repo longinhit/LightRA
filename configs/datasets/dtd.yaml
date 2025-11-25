@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "DescribableTextures"
+  PROMPT_PATH: './prompts/DescribableTextures.json'
+  PROMPT_TEMPLATE: 'A photo of a {},'

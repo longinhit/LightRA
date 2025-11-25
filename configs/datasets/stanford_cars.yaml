@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "StanfordCars"
+  PROMPT_PATH: './prompts/StanfordCars.json'
+  PROMPT_TEMPLATE: 'A photo of a {}, a type of car.'

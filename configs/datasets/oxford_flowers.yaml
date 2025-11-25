@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "OxfordFlowers"
+  PROMPT_PATH: './prompts/OxfordFlowers.json'
+  PROMPT_TEMPLATE: 'A photo of a {},'

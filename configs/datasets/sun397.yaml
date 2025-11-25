@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "SUN397"
+  PROMPT_PATH: './prompts/SUN397.json'
+  PROMPT_TEMPLATE: 'A photo of a {},'

@@ -1,0 +1,122 @@
+{
+    "Annual Crop Land": [
+        "Annual Crop Land is characterized by rectangular or square shapes with uniform colors and patterns, featuring densely planted, regularly spaced rows of annual crops.",
+        "Annual Crop Land appears as a uniform, cultivated landscape with rows of tall, dense, and often green vegetation, featuring rectangular plots with straight edges and distinct boundaries.",
+        "Annual Crop Land is a patchwork of uniform, rectangular fields featuring dense, regularly maintained rows of cultivated plants with varying shades of green and brown, showcasing distinct growth stages.",
+        "Annual Crop Land is characterized by uniform, geometric patterns of lush, green or yellow fields with straight borders, roads, and rows of varying height and texture plants.",
+        "Annual Crop Land typically features uniform, rectangular fields with subtle ridges and furrows, or smooth, bare soil surfaces with occasional rows of plants, often exhibiting a mix of green and bare areas.",
+        "Annual Crop Land is characterized by rectangular or square shapes with uniform colors and patterns, indicating crop rows and fields.",
+        "Annual Crop Land appears as a grid of uniform, vibrant green or golden rectangles, often with straight edges and distinct boundaries.",
+        "Annual Crop Land appears as a patchwork of uniform, rectangular fields with varying shades of green and brown.",
+        "Annual crop land appears as uniform, geometric patterns of green or yellow fields, often with straight borders and roads.",
+        "Annual Crop Land typically exhibits a mosaic of green, uniform, and rectangular fields with subtle ridges and furrows."
+    ],
+    "Forest": [
+        "A forest is characterized by a dense, uniform canopy cover with varying shades of green, featuring tall, dense trees with a continuous layer of foliage and a possible open or closed understory.",
+        "A forest is a dense, green area with defined boundaries, characterized by a towering canopy of trees with sprawling canopies and complex branch networks.",
+        "Forest is a dense, green, and irregularly shaped area with tall, layered tree canopies, complex branching, and varying tree densities, characterized by a lush and intricate foliage.",
+        "Forest is a dense and uniform ecosystem characterized by a continuous canopy of trees with varying shades of greenery, contrasting with surrounding features, and a well-defined understory.",
+        "A forest is characterized by a mix of green, brown, and tan hues, with dense, rugged, and uneven tree bark, rough, gnarled, and twisted trunks and branches.",
+        "A unique visual cue of forest in a centered satellite photo is the dense, uniform canopy cover with varying shades of green.",
+        "Forest areas appear as dense, green patches with defined boundaries, contrasting with other land types like grasslands or deserts.",
+        "Forest areas in a centered satellite photo appear as dense, green, and irregularly shaped patches with varying tree densities.",
+        "Forest is distinguished by dense, uniform greenery with varying shades, contrasting with surrounding features like water or urban areas.",
+        "Forest areas typically exhibit a mix of green, brown, and tan hues with varying shades of texture, from smooth to rugged."
+    ],
+    "Herbaceous Vegetation Land": [
+        "Herbaceous Vegetation Land features a mosaic of irregularly shaped green patches, comprising a dense understory of perennial grasses, wildflowers, and a mix of shrubs and trees.",
+        "Herbaceous Vegetation Land is a dynamic, vibrant landscape characterized by a diverse array of non-woody plants, including grasses, wildflowers, and shrubs, in a constantly changing mosaic of green hues.",
+        "Herbaceous Vegetation Land is a diverse mosaic of green patches featuring a mix of perennial and annual grasses, wildflowers, and shrubs with varying heights, textures, and densities amidst other land types.",
+        "Herbaceous Vegetation Land is a lush, dynamic mosaic of diverse green patches, featuring winding paths, varying shades, and textures, with a mix of grasses, wildflowers, and shrubs.",
+        "Herbaceous Vegetation Land typically features a dense, lush carpet of varied textures, including soft grasses, leafy stems, and delicate flower petals, with a mix of smooth, soft, and sometimes rough textures in shades of green and brown.",
+        "A distinctive pattern of green patches with irregular shapes and varying sizes is characteristic of Herbaceous Vegetation Land.",
+        "Herbaceous Vegetation Land appears as a vibrant, green, and varied mosaic of grasses, wildflowers, and other non-woody plants.",
+        "Herbaceous Vegetation Land appears as a mosaic of green patches with varying shapes, sizes, and densities amidst other land types.",
+        "Herbaceous Vegetation Land appears as a mosaic of green patches with varying shades and textures, often with winding paths or roads.",
+        "Herbaceous Vegetation Land typically features a mix of smooth, soft, and sometimes rough textures, with varying shades of green and brown hues."
+    ],
+    "Highway or Road": [
+        "A highway or road is a man-made, linear feature with a uniform width and alignment, featuring a continuous path of asphalt or concrete with marked lanes.",
+        "Highways or roads are long, linear paths with smooth surfaces, marked by lines, signs, and distinct edges, often featuring visible lanes, markings, and surrounding infrastructure, including guardrails.",
+        "A highway or road is a long, flat, and narrow surface with defined edges, marked lanes, and a median, appearing as a linear feature with visible boundaries.",
+        "Highways or roads are long, linear infrastructure features with defined paths, marked by lines, and bounded by curbs or medians, appearing as straight or curved features with distinct edges and varying tones.",
+        "Highways or roads typically have a smooth, uniform gray or asphalt-colored surface with occasional markings and lines, featuring subtle ridges and grooves for traction.",
+        "A highway or road is characterized by a linear, man-made feature with a distinctive, uniform width and alignment.",
+        "Highways or roads appear as linear, man-made features with distinct edges, often with visible lanes, markings, and surrounding infrastructure.",
+        "Highways or roads appear as long, thin, linear features with defined edges, often with visible lanes and markings.",
+        "Highways or roads appear as straight or curved linear features with defined edges, often with a darker or lighter tone than surrounding terrain.",
+        "Highways or roads typically exhibit a smooth, straight, and uniform gray or asphalt-colored surface with occasional markings and lines."
+    ],
+    "Industrial Buildings": [
+        "Industrial buildings typically feature large, rectangular structures with straight lines, right angles, and exteriors made of corrugated metal or concrete, often with multiple loading docks.",
+        "Industrial buildings are clusters of rectangular structures with varying sizes, featuring metal or concrete exteriors, loading docks, vents, and functional architecture, often surrounded by parking lots and storage areas.",
+        "Industrial buildings are rectangular or linear structures with flat roofs, metal or concrete exteriors, and minimal landscaping, featuring functional designs with exposed structural elements like steel beams and concrete blocks.",
+        "Industrial buildings are typically large, rectangular structures with straight lines, sharp angles, and corrugated metal or concrete facades, often with functional and utilitarian designs.",
+        "Industrial buildings typically exhibit rough, weathered surfaces with a mix of metal, concrete, brick, and asphalt textures, often featuring corrugated metal, exposed brick, rivets, and rusty accents.",
+        "Industrial buildings are often characterized by a grid-like pattern of rectangular structures with straight lines and right angles.",
+        "Industrial buildings appear as clusters of rectangular structures with varying sizes, often surrounded by parking lots and storage areas.",
+        "Industrial buildings appear as rectangular or linear structures with flat roofs, often with metal or concrete exteriors and minimal landscaping.",
+        "Industrial buildings appear as clusters of rectangular structures with straight lines, sharp angles, and occasional smoke or pollution plumes.",
+        "Industrial buildings typically exhibit rough, weathered, and rusted metal surfaces, with occasional concrete, brick, or asphalt textures."
+    ],
+    "Pasture Land": [
+        "Pasture Land is characterized by its uniform green color, with scattered, irregularly-shaped patches of darker green trees, and features unevenly distributed grasses, wildflowers, shrubs, and small trees.",
+        "Pasture Land is a scenic area featuring a patchwork of lush, green grasses and wildflowers, with scattered trees and minimal crop rows, often including farm buildings.",
+        "Pasture Land is a lush, green area with scattered trees, grasses, wildflowers, and shrubs, often surrounded by fences and featuring visible grazing paths and occasional farm structures.",
+        "Pasture Land is a patchwork of lush, green areas with scattered trees, gentle undulations, and minimal infrastructure, featuring lush grasses and wildflowers in a serene and natural setting.",
+        "Pasture Land typically features a lush, uneven surface with a slightly rough texture, exhibiting a mix of uniform green and darker spots, with scattered tufts of grass and occasional wildflowers.",
+        "Pasture Land is distinguished by its uniform green color and scattered, irregularly-shaped patches of darker green trees.",
+        "Pasture Land appears as a patchwork of green, with varying shades of grass and occasional clusters of trees or farm buildings.",
+        "Pasture Land appears as a lush, green area with scattered trees and occasional farm structures, often surrounded by fences.",
+        "Pasture Land appears as a patchwork of green, irregularly shaped areas with scattered trees and gentle undulations.",
+        "Pasture Land typically exhibits a uniform, lush, and slightly wavy green texture with scattered darker spots."
+    ],
+    "Permanent Crop Land": [
+        "Permanent Crop Land is characterized by a uniform, geometric pattern of rows or plots, featuring regularly spaced and densely planted crops with consistent height and texture, often with no natural vegetation.",
+        "Permanent Crop Land is characterized by uniform, geometric patterns of planted rows with distinct boundaries and consistent spacing and growth patterns of cultivated plants.",
+        "Permanent Crop Land is characterized by uniform, rectangular areas with precise crop patterns, consistent spacing, regular pruning, and deliberate soil management, featuring minimal vegetation and intensive cultivation.",
+        "Permanent Crop Land appears as uniform, intensely green or yellowish areas with consistent shapes and boundaries, featuring uniform rows of mature, dense, and well-maintained crops with minimal soil exposure.",
+        "Permanent Crop Land typically exhibits smooth, uniform, and even surfaces with minimal topographic features, often featuring glossy surfaces with neatly trimmed vines or leaves.",
+        "Permanent Crop Land is characterized by a uniform, geometric pattern of rows or plots, often with no natural vegetation.",
+        "Permanent Crop Land appears as uniform, geometric patterns of planted rows, often with distinct boundaries and minimal vegetation variation.",
+        "Permanent Crop Land appears as uniform, rectangular, and intensively cultivated areas with consistent crop patterns and minimal vegetation.",
+        "Permanent Crop Land appears as uniform, intensely green or yellowish areas with consistent shapes and boundaries in satellite imagery.",
+        "Permanent Crop Land typically exhibits uniform, smooth, and even surfaces with minimal topographic features and subtle color variations."
+    ],
+    "Residential Buildings": [
+        "Residential buildings typically feature a uniform grid-like pattern with rectangular shapes and straight edges, and often exhibit a variety of architectural styles, including pitched roofs, dormer windows, and ornate facades.",
+        "Residential buildings are clusters of rectangular structures with varied sizes, colors, and architectural styles, typically featuring walls, windows, doors, and roofs, often surrounded by green spaces and roads.",
+        "Residential buildings are typically rectangular or irregularly-shaped structures with flat roofs, straight walls, and varying heights, featuring a mix of materials, rooflines, and architectural styles.",
+        "Residential buildings are clusters of rectangular shapes with varying sizes, heights, and colors, often situated amidst green spaces and roads, featuring a mix of windows and doors.",
+        "Residential buildings typically exhibit smooth, flat roofs and walls with varied textures, including smooth, weathered, or rough-textured surfaces made of materials like stucco, brick, wood, or siding.",
+        "Residential buildings are characterized by a uniform, grid-like pattern of rectangular shapes with straight edges and right angles.",
+        "Residential buildings appear as clusters of rectangular shapes with varying sizes and colors, often surrounded by green spaces and roads.",
+        "Residential buildings typically appear as rectangular or irregularly-shaped structures with flat roofs, straight walls, and varying heights.",
+        "Residential buildings appear as clusters of rectangular shapes with varying sizes, densities, and colors amidst green spaces and roads.",
+        "Residential buildings typically exhibit smooth, flat roofs, and walls with varied textures such as brick, stucco, or siding."
+    ],
+    "River": [
+        "River is a winding and serpentine watercourse with steep, vegetated banks, distinguishable from other landforms and seas by its unique shape and terrain features.",
+        "A river is a winding, sinuous watercourse with a gentle curve, varying depth, and gradual slope, often featuring a darker tone and lush vegetation along its banks.",
+        "A river is a serpentine, winding feature with a clear or cloudy boundary, varying width and depth, gradual slope, and vegetation-lined banks, often with a varied appearance.",
+        "A river is a sinuous, winding line of blue or green water, often surrounded by varying shades of land and vegetation, with steep banks and a narrower, faster-moving flow.",
+        "Rivers typically feature a winding pattern with surfaces ranging from smooth and reflective to rough, rocky, or pebbly, often with varying degrees of smoothness and irregularities.",
+        "River's winding, serpentine shape and meandering course distinguish it from other landforms in a centered satellite photo.",
+        "Rivers appear as winding, sinuous lines with gentle curves, often with a darker tone due to vegetation and sediment.",
+        "River appears as a serpentine, winding feature with a clear or cloudy boundary and varying width and depth.",
+        "River appears as a sinuous, winding line of blue or green, often surrounded by varying shades of land and vegetation.",
+        "River surfaces typically exhibit a winding, serpentine pattern with smooth, reflective water and adjacent vegetated or sandy banks."
+    ],
+    "Sea or Lake": [
+        "A Sea or Lake is characterized by a distinct shoreline or coastline with a water's edge, and a horizon line separating the water from the atmosphere, often with a visible sky-blue color.",
+        "A sea or lake is a vast, calm body of water with a flat surface, defined shoreline, and a reflective blue or gray appearance, often appearing as a distinct area in satellite photos.",
+        "A sea or lake is a calm, vast, and relatively still body of water with a distinct shoreline, characterized by a smooth, curved or irregular boundary and reflective surface.",
+        "A sea or lake is a vast, calm, and continuous body of water with a visible horizon, surrounded by land, featuring a distinct shoreline or coastline.",
+        "Sea or lake surfaces typically display a smooth, reflective, and glassy appearance with gentle ripples, calm waves, and a subtle sheen, often exhibiting a serene and tranquil atmosphere.",
+        "The visual cue unique to Sea or Lake is the presence of a distinct shoreline or coastline with water's edge.",
+        "Sea or lake appears as a distinct, reflective blue or gray area with a defined shoreline in a centered satellite photo.",
+        "A sea or lake is characterized by a smooth, curved or irregular boundary, with a distinct shoreline and reflective surface.",
+        "Sea or Lake appears as a large, smooth, and continuous body of water with a distinct shoreline or coastline.",
+        "Sea or lake surfaces typically exhibit a smooth, reflective, and glassy appearance with subtle ripples or waves."
+    ]
+}

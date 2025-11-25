@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "FGVCAircraft"
+  PROMPT_PATH: './prompts/FGVCAircraft.json'
+  PROMPT_TEMPLATE: 'A photo of a {},'

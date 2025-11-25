@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "Caltech101"
+  PROMPT_PATH: './prompts/Caltech101.json'
+  PROMPT_TEMPLATE: 'A photo of a {}.'

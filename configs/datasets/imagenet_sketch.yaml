@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "ImageNetSketch"
+  PROMPT_PATH: './prompts/ImageNet.json'
+  PROMPT_TEMPLATE: 'A photo of a {},'

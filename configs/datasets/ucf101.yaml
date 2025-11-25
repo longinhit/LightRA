@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "UCF101"
+  PROMPT_PATH: './prompts/UCF101.json'
+  PROMPT_TEMPLATE: 'A photo of a {},'

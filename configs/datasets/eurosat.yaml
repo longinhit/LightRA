@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "EuroSAT"
+  PROMPT_PATH: './prompts/EuroSAT.json'
+  PROMPT_TEMPLATE: 'A top-down view of {} arranged in a pattern,'
