@@ -4,10 +4,15 @@ Official implementation of the paper : "[LightRA: Lightweight Residual Attention
 
 ## Dependencies
 
+```python
+conda env create -f LightRA_env.yml
+```
+
 ## Datasets
 
 ## Train 
 
 ## Experimental Results
+
 
 ## Acknowledgements
