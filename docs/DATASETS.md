@@ -1,6 +1,6 @@
 # How to install datasets
 
-### Acknowledgement: This readme file for installing datasets has been borrowed directly from [MaPLe's](https://github.com/muzairkhattak/multimodal-prompt-learning) official repository.
+### Acknowledgement: This readme file for installing datasets has been borrowed directly from [CoOp's](https://github.com/KaiyangZhou/CoOp) official repository.
 
 We recommend putting all datasets under the same folder (say `$DATA`) to ease management and following the instructions below to organize datasets to avoid modifying the source code. The file structure should look like:
 
